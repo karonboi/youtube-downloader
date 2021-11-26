@@ -11,3 +11,5 @@ YouTube Downloader uses youtube-dl by Ricardo Garcia for downloading the videos 
 "Once you're started using 'YouTube Downloader", you agreed and promised that you will not download any copyright products (YouTube videos that are protected by specific licenses or laws). I respect your choices, but any copyright claims that are related to this application will be responded to by you (the user) and not by me. That also means you will have to take every punishment from the copyright owners. If you disagree with this Usage Warning, UN-INSTALL this application right now. If you try to do against the warnings, it's your fault."
 
 This app is in development, and the first release (v1.0) is a test program, so of course, it has some limitations and bugs. If there are any issues during the use, feel free to report me on my GitHub account and if you have ideas to improve, don't hesitate to fork and edit this repository. Any big brains are welcome :)
+
+(Note: this BAT program file is converted using Advanced BAT to EXE Converter, so there are a few lines of commands cannot be used in ordinary Command Prompt progam. Install that editor app first before commit changes.
